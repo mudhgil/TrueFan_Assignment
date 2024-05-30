@@ -1,0 +1,14 @@
+# Virtual environments
+
+env/
+
+ 
+*.pyc
+__pycache__/
+
+# Local development settings
+.env
+
+# Docker
+db.sqlite3
+ 
